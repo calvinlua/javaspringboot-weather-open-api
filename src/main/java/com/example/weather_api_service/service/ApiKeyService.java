@@ -16,7 +16,6 @@ public class ApiKeyService {
     public ApiKeyService(RateLimiter rateLimiter) {
         this.rateLimiter = rateLimiter;
 
-        // Initialize with your predefined API keys
         validApiKeys.add("APIKEY-001");
         validApiKeys.add("APIKEY-002");
         validApiKeys.add("APIKEY-003");
