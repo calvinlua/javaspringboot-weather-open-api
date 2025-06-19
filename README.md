@@ -5,6 +5,11 @@ Assignment Question:
 
 
 
+
+> Prerequisites:
+> 
+> Install Java Version 17
+
 1. Run the program with intellij IDEA or any of your favourite IDE. Run the main program. 
 2. Call the api with headers as "X-API-KEY: APIKEY-001". You can call the backend with 5 different api key with APIKEY-002, APIKEY-003 and so on until APIKEY-005.
 3. Paste the curl into your postman to test your rest api call.
